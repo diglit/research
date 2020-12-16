@@ -11,5 +11,8 @@ Any topics that we wish to discuss or decide on, we create an issue for (with so
 ### CI/CD Development Pipelines
 [Issue](https://github.com/diglit/research/issues/1)
 
+### Discounted and Free Technology for Nonprofits
+[Issue](https://github.com/diglit/research/issues/2)
+
 
 
